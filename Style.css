@@ -4,3 +4,10 @@
     padding: 0;
     /* add variables for colors */
 }
+.side_bar_img{
+    height:650px;
+    max-height:100%;
+    display: flex;
+    width:auto;
+    overflow: hidden;
+}
